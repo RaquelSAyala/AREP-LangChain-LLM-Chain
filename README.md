@@ -64,7 +64,6 @@ python main.py
 
 When you run `python main.py`, the application will query the Gemini model asking "What is Retrieval-Augmented Generation (RAG)?" and print the response. 
 
-*(Optional: You can add a screenshot of your terminal running the code here)*
 ![Terminal Output Screenshot](images/terminal_output.png)
 
 Here is an example of the expected console output:
