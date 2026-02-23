@@ -64,17 +64,6 @@ python main.py
 
 When you run `python main.py`, the application will query the Gemini model asking "What is Retrieval-Augmented Generation (RAG)?" and print the response. 
 
-![Terminal Output Screenshot](images/terminal_output.png)
+<img width="1263" height="702" alt="Terminal" src="https://github.com/user-attachments/assets/547426b6-9e51-4fcd-8fe5-679612cdae0f" />
 
-Here is an example of the expected console output:
 
-```text
---- LangChain LLM Chain Tutorial ---
-User Request: What is Retrieval-Augmented Generation (RAG)?
-
-Processing...
-
-AI Response:
-Retrieval-Augmented Generation (RAG) is a software architecture pattern that improves the quality and accuracy of Large Language Models (LLMs) by grounding their responses in external, verifiable knowledge sources...
-[Detailed explanation continues...]
-```
